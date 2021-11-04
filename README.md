@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 💬 For concacting [email me](mailto:dimk00z@gmail.com) or use [telegram](https://t.me/dimk_smith)
+- 💻 Right how I'm learning backend development at [Yandex.Praktikum Python-middle cource](https://practicum.yandex.ru/profile/middle-python/)
+
+
 <!--
 **dimk00z/dimk00z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
