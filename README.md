@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💬 For concacting [email me](mailto:dimk00z@gmail.com) or use [telegram](https://t.me/dimk_smith)
-- 💻 Right how I'm learning backend development at [Yandex.Praktikum Python-middle cource](https://practicum.yandex.ru/profile/middle-python/)
+- 💻 Right now I'm learning backend development at [Yandex.Praktikum Python-middle cource](https://practicum.yandex.ru/profile/middle-python/)
 
 
 <!--
