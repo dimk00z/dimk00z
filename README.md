@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 For concacting [email me](mailto:dimk00z@gmail.com) or [text me by telegram](https://t.me/dimk_smith)
+<!-- - 💬 For concacting [email me](mailto:dimk00z@gmail.com) or [text me by telegram](https://t.me/dimk_smith) -->
 - 💻 Right now I'm learning backend development at [Yandex.Praktikum Python-middle cource](https://practicum.yandex.ru/profile/middle-python/)
 
 
