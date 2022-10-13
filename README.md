@@ -3,6 +3,7 @@
 <!-- - 💬 For concacting [email me](mailto:dimk00z@gmail.com) or [text me by telegram](https://t.me/dimk_smith) -->
 - 💻 Python|GO back-end developer.
 - ⚡ passed [Yandex.Praktikum Python-middle cource](https://practicum.yandex.ru/profile/middle-python/)
+- ⚡ passed [Yandex.Praktikum advanced Go cource](https://practicum.yandex.ru/profile/go-advanced/)
 
 
 <!--
