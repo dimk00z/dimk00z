@@ -1,22 +1,12 @@
-### Hi there 👋
+## 💻 Python|GO back-end developer.
 
-<!-- - 💬 For concacting [email me](mailto:dimk00z@gmail.com) or [text me by telegram](https://t.me/dimk_smith) -->
-- 💻 Python|GO back-end developer.
-- ⚡ passed [Yandex.Praktikum Python-middle cource](https://practicum.yandex.ru/profile/middle-python/)
-- ⚡ passed [Yandex.Praktikum advanced Go cource](https://practicum.yandex.ru/profile/go-advanced/)
+Passed middle courses:
+
+- [Python](https://github.com/dimk00z/dimk00z/blob/main/images/python.png?raw=true) [Yandex.Praktikum Python-middle cource](https://practicum.yandex.ru/profile/middle-python/)
+- [Go](https://github.com/dimk00z/dimk00z/blob/main/images/golang.png) [Yandex.Praktikum advanced Go cource](https://practicum.yandex.ru/profile/go-advanced/)
 
 
-<!--
-**dimk00z/dimk00z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💬 For concacting 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [email](mailto:dimk00z@gmail.com) 
+- [telegram](https://t.me/dimk_smith)
