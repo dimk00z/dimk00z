@@ -2,9 +2,9 @@
 
 Passed middle cources:
 
-<img src="images/python.png?raw=true" width="16"/> [Yandex.Praktikum Python-middle cource](https://practicum.yandex.ru/profile/middle-python/)
+<img src="images/python.png?raw=true" width="16"/> [middle Python](https://practicum.yandex.ru/profile/middle-python/)
 
-<img src="images/golang.png?raw=true" width="16"/>  [Yandex.Praktikum advanced Go cource](https://practicum.yandex.ru/profile/go-advanced/)
+<img src="images/golang.png?raw=true" width="16"/>  [advanced Go](https://practicum.yandex.ru/profile/go-advanced/)
 
 
 ### 💬 For concacting 
