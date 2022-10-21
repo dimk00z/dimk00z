@@ -7,7 +7,4 @@ Passed middle cources:
 <img src="images/golang.png?raw=true" width="16"/>  [advanced Go](https://practicum.yandex.ru/profile/go-advanced/)
 
 
-### 💬 For concacting 
-
-- [email](mailto:dimk00z@gmail.com) 
-- [telegram](https://t.me/dimk_smith)
+💬 [email](mailto:dimk00z@gmail.com) - [telegram](https://t.me/dimk_smith)
